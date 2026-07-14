@@ -6,8 +6,7 @@ An AI-powered tool that analyzes resume text and returns structured, actionable 
 
 **Try it here:** [ai-resume-analyzer-frontend-five-chi.vercel.app](https://ai-resume-analyzer-frontend-five-chi.vercel.app/)
 
-![image alt](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/73999cc6-f69c-47b1-b102-3689c32f8521" />
-)
+
 
 ## Features
 
