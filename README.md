@@ -2,6 +2,13 @@
 
 An AI-powered tool that analyzes resume text and returns structured, actionable feedback — summary, extracted skills, strengths, and areas for improvement — powered by Groq (Llama 3.3 70B) using structured output.
 
+
+
+![image alt](https://github.com/dhanibaksh777-byte/ai-resume-analyzer/blob/6b400c7c1914b02f5c0c4598dbde4a2d1645e39f/Screenshot%202026-07-14%20104757.png)
+
+
+
+
 ## 🔗 Live Demo
 
 **Try it here:** [ai-resume-analyzer-frontend-five-chi.vercel.app](https://ai-resume-analyzer-frontend-five-chi.vercel.app/)
